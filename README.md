@@ -1,6 +1,6 @@
 # Repetitorium Grundlagen Rechnernetze und Verteilte Systeme
 
-Hier zusammengetragen finden Sie Folien, die ich für ein acht-tägiges Repetitorium im Fach "Grundlagen Rechnernetz und Verteilte Systeme" an der Technischen Universität München zusammengestellt habe.
+Hier sind Folien zusammgetragen, die für ein acht-tägiges Repetitorium im Fach "Grundlagen Rechnernetz und Verteilte Systeme" an der Technischen Universität München zusammengestellt wurden.
 Es sind dabei insbesondere Aufgaben aus Altklausuren (Endterms, Retakes und Midterms) und einige wenige Aufgaben aus den Übungsblättern enthalten, die auf der [Homepage](https://grnvs.net) veröffentlicht wurden.
 
 Die Aufgaben sollten gut veranschaulichen, wie der gelernte Stoff anzuwenden ist und bieten Abwechslung zu den Übungsaufgaben.
